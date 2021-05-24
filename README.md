@@ -1,13 +1,3 @@
 # tick-tock
 
-# Screenshot
 
-![Tick Tock](http://imgur.com/Fx32KOK.png)
-
-## License
-
-[MIT](LICENSE.md) © [Akshay Kadam](https://github.com/deadcoder0904)
-
-### Made by A2K
-
-<img src="http://imgur.com/jfmA33n.png" alt="Sign" width=250 height=130 />
